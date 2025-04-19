@@ -1,1 +1,1 @@
-# Bank---Loan-and-Risk-Analysis
+# Bank-Loan and Risk Analysis
